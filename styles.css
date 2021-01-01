@@ -1,0 +1,26 @@
+body {
+    font-family: monospace;
+    font-size: 18px;
+    background-color: black;
+    color: white;
+}
+
+table {
+  border-collapse: collapse;
+}
+
+td, th {
+    text-align: left;
+    border: thick solid #ddd;
+    padding: 10px;
+    margin: 0;
+}
+
+th {
+    font-weight: bold;
+}
+
+thead {
+    font-size: 24px;
+    text-transform: uppercase;
+}
